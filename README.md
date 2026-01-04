@@ -15,3 +15,7 @@ Features:
 Steps to Run:
 1. npm install
 2. npm start
+
+Login Email, Password
+email: admin@gmail.com
+pass: 123456
