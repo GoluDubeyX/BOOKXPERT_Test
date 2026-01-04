@@ -10,7 +10,7 @@ Features:
 - Employee CRUD
 - Image upload with preview
 - Search and filter
-- Print employee list
+- Print the per employee details 
 
 Steps to Run:
 1. npm install
